@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>Welcome to Seat N' Eat👋💻</h1>
-  <h3>Live Website for Seat N' Eat : <a href="https://dsckgec.github.io/SeatAndEat">Click Here!</a></h3>
+  <h3>Live Website for Seat N' Eat : <a href="https://satya-charan.github.io/Seat-N-Eat/">Click Here!</a></h3>
 </div>
 
 <br>
