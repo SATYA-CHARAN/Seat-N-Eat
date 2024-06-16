@@ -22,9 +22,3 @@ This project is a beginners friendly project. It is a static website and mostly 
   
 <!-- need to recheck about the note heading -->
 <br>
-
-
-If you want to work on this unique project and share it with the world, you can do that here. 
-Go through the contributing guidelines [here](https://github.com/DSCKGEC/SeatAndEat/blob/main/contributing.md).
-
-Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
