@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Welcome to Seat N' Eat👋💻</h1>
+  <h1>Welcome to Seat N' Eat</h1>
   <h3>Live Website for Seat N' Eat : <a href="https://satya-charan.github.io/Seat-N-Eat/">Click Here!</a></h3>
 </div>
 
@@ -22,4 +22,5 @@ This project is a beginners friendly project. It is a static website and complet
   
 <!-- need to recheck about the note heading -->
 <br>
+
 
