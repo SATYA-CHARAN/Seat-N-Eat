@@ -6,12 +6,10 @@
 
 <br>
 
-
 ##  Repository
 
 This is a sleek designed commercial website template for a restaurant.
 This project is a beginners friendly project. It is a static website and completely based on front-end.
-
 
 
 ##  Tech Stacks
@@ -22,5 +20,6 @@ This project is a beginners friendly project. It is a static website and complet
   
 <!-- need to recheck about the note heading -->
 <br>
+
 
 
