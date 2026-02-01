@@ -11,4 +11,5 @@ if (close) {
     close.addEventListener('click', function(){
         navbar.classList.remove('active');
     });
+
 }
